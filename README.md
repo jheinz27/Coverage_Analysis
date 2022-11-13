@@ -4,8 +4,8 @@ usage: coverageAnalysisV4.py [-h] -r <input.bam> -t <input.bam> [-reg <roi.txt>]
 
 Check coverages in given region
 
-optional arguments:
-  -h, --help           show this help message and exit
+optional arguments: \
+  -h, --help           show this help message and exit 
   
   -r <input.bam>       reference alignment file 
   
